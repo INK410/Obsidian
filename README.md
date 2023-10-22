@@ -1,0 +1,2 @@
+# Obsidian
+All Notes
