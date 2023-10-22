@@ -1,0 +1,290 @@
+{
+  "main": {
+    "id": "555cbb7aafaa5e78",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddb562e4dd0614fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75a0778bf053030a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
+            "id": "6ab5b6130d3c2006",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NewStarCTF week2 web MISC/Week2 Web/飞机大战.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0d0208a85f4ebbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NewStarCTF week2 web MISC/Week2 Web/include 0。0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97fb0cfbe49d9e03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NewStarCTF week2 web MISC/Week2 Web/未命名 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7793e1d2f9223e6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20231018111842.png"
+              }
+            }
+          },
+          {
+            "id": "30b52ded9f96c18f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "云计算/Kubernenetes编排入门.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a055fb7cdf62e28",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20231021013332.png"
+              }
+            }
+          },
+          {
+            "id": "12accd1d0d671ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clash/Linux/在Debian下部署clash(kali linux).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "207035c5e810a547",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTFshow/web入门/信息收集/未命名 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65693e10c3b02162",
+    "type": "split",
+    "children": [
+      {
+        "id": "080bf49812cc8ab0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13eeba4a236b6a70",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f2868fb741911c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d23c43a1b366d0b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aa37c098b97bd583",
+    "type": "split",
+    "children": [
+      {
+        "id": "78e5dfb7032fbb40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a20e1a0d45e5fb16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CTFshow/web入门/信息收集/未命名 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21e2238cc9c15d7c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CTFshow/web入门/信息收集/未命名 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b840082d8fcd2ab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0b15f67b1334e6f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CTFshow/web入门/信息收集/未命名 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "207035c5e810a547",
+  "lastOpenFiles": [
+    "新建文本文档.txt",
+    "CTFshow/web入门/信息收集",
+    "Clash/Linux/在Debian下部署clash(kali linux).md",
+    "CTFshow/web入门/信息收集/未命名 1.md",
+    "CTFshow/web入门",
+    "CTFshow",
+    "images/Pasted image 20231021013332.png",
+    "Clash/Linux",
+    "VulnHub/21-40/election.md",
+    "Clash",
+    "images/Pasted image 20231021194435.png",
+    "images/Pasted image 20231021193647.png",
+    "images/Pasted image 20231021192606.png",
+    "云计算/Kubernenetes编排入门.md",
+    "images/Pasted image 20231021173523.png",
+    "云计算/Kubernetes 上运行你的第一个应用程序.md",
+    "VulnHub/21-40/DC_7.md",
+    "images/Pasted image 20231021165008.png",
+    "images/Pasted image 20231021160858.png",
+    "VulnHub/21-40/DC-2.md",
+    "常用命令.md",
+    "images/Pasted image 20231021143902.png",
+    "images/Pasted image 20231021020603.png",
+    "images/Pasted image 20231021015417.png",
+    "NewStarCTF week2 web MISC/Week2 Web/未命名 1.md",
+    "NewStarCTF week2 web MISC/Week2 Web/include 0。0.md",
+    "NewStarCTF week2 web MISC/Week2 Web/飞机大战.md",
+    "NewStarCTF week2 web MISC/Week2 Web",
+    "NewStarCTF week2 web MISC",
+    "NewStarCTF week1 web MISC/MISC/CyberChef's Secret.md",
+    "VulnHub/21-40/DC_3.2.md",
+    "VulnHub/21-40/BNE0x03 - Simple.md",
+    "VulnHub/21-40/billu b0x.md",
+    "VulnHub/1-20/WestWild_1.1.md",
+    "VulnHub/1-20/Victim.md",
+    "VulnHub/1-20/Typhoon_1.02.md",
+    "VulnHub/1-20/Sar_1.md",
+    "VulnHub/1-20/Nyx_1.md",
+    "VulnHub/1-20/NullByte.md",
+    "VulnHub/1-20/My_File_Server.md",
+    "VulnHub/1-20/Misdirction.md",
+    "VulnHub/1-20/mhz_cxf.md",
+    "VulnHub/1-20/Mercury.md",
+    "VulnHub/1-20",
+    "VulnHub/21-40",
+    "云计算"
+  ]
+}
